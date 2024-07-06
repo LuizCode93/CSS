@@ -1,0 +1,54 @@
+h1{
+    font-family: Candara;
+    color: #DC0032;
+}
+
+h4{
+    font-family: Candara Light;
+    color: gray;
+}
+
+/* Formatando a area da barra de navegação */
+#lista1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #DC0032;
+    font-family: Candara Light;
+}
+
+/* Formatando os itens da barra de navegação */
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Formatando os itens da barra de navegação quando passar o mouse */
+
+li a:hover{
+    background-color: gray;
+    color: white;
+}
+
+
+#lista2{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: rgb(4, 83, 73);
+    font-family: Candara Light;
+}
+
+#lista3{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: violet;
+    font-family: Candara Light;
+}
